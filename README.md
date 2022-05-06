@@ -5,7 +5,7 @@
 sudo apt install apktool
 ```
 
-$ Agar Error dad command haye zer be tartib `mizanim :
+$ Agar Error dad `command haye zer be tartib` mizanim :
 
 
 ```bash
